@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Chào chị lùn, nhớ đặt vé cho em nha!",
+    introTitle: 'Phan Thị Tâm Heo',
+    introDesc: `Cột sống mà
+    Chị đã vào đây rồi
+    Thì không còn gì bàn cãi nữa
+    Chị là nấm di động`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Phải chăng chị là heo 🥰?',
+    desc: 'Phải chăng em nhìn nhầm',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question: 'Trên thế giới hơn 7 tỉ người mà sao chị lùn',
+    btnReply: 'Gửi cho chị ',
+    reply: 'Không nghỉ chơi nhé, đọc xong bình tĩnh, lên đó nói chuyện',
+    mess: 'Tui piết mà, bạn tốt lắm 😘😘',
+    messDesc: 'Ok hẹn 26 tái ngộ nhé sư tỷ',
+    btnAccept: 'Hehe pai pai',
+    messLink: 'https://www.facebook.com/messages/t/100015630735241' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
